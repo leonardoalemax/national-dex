@@ -8,7 +8,7 @@ A simple Webapp that's cosume the [pokeapi](pokeapi.co).
 
 Initially this app was developed as a code challenge to for a job application, but i've such a fun time doing it, so i've decided to expand it.
 
-You can access the dex here: http://dex.alemax.live (courtesy of of [netlify](https://github.com/prettier/prettier))
+You can access the dex here:https://alemax-national-dex.netlify.app/ (courtesy of of [netlify](https://github.com/prettier/prettier))
 
 ---
 
